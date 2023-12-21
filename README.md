@@ -1,4 +1,4 @@
-### Hola soy Zen, programador
+### Hola soy Zen, estudiante de programación ⭐
 
 Un estudiante apasionado por la programación y el desarrollo web. Mi enfoque principal está en construir soluciones web eficientes y atractivas utilizando diversas tecnologías.
 
@@ -22,7 +22,7 @@ En este repositorio, encontrarás ejemplos de mi trabajo en:
 
 - Desarrollo web con PHP, JavaScript y Angular.
 - Uso de bases de datos SQL para gestionar datos de manera eficiente.
-- Proyectos y scripts en Python para diversas aplicaciones.
+- Proyectos y scripts en Python para diversos proyectos, apoyo y aplicaciones.
 
 Estoy abierto a sugerencias y colaboraciones. Si tienes alguna idea o mejora, ¡no dudes en contribuir!
 
