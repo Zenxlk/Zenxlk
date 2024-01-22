@@ -13,6 +13,9 @@ Como estudiante, he dedicado tiempo y esfuerzo para adquirir habilidades en dife
 - Angular
 - CSS
 - HTML
+- MySQL
+- React
+- TS
 
 Estoy emocionado de compartir mis proyectos y colaborar con otros apasionados por la tecnología.
 
