@@ -1,12 +1,4 @@
-### Hola soy Zen, estudiante de programación ⭐
-
-Un estudiante apasionado por la programación y el desarrollo web. Mi enfoque principal está en construir soluciones web eficientes y atractivas utilizando diversas tecnologías.
-
-## Acerca de mí
-
-Como estudiante, he dedicado tiempo y esfuerzo para adquirir habilidades en diferentes lenguajes de programación. Tengo experiencia en:
-
-- PHP<div align="center">
+<div align="center">
 
 # 👋 ¡Hola! Soy Jair Mendez (Zen)
 
