@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | Mobile Developer | Linux Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3BA55D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+Developer;Angular+%2B+Spring+Boot;Linux+Enjoyer;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3BA55D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+Developer;Angular+%2B+Spring+Boot;Linux+Enjoyer" />
 
 <br>
 
@@ -17,20 +17,9 @@
 
 # 👨‍💻 Sobre mí
 
-Soy desarrollador Full Stack con **más de dos años de experiencia** construyendo aplicaciones web y móviles.
+Soy desarrollador Full Stack con más de dos años de experiencia construyendo aplicaciones web y móviles.
 
-Disfruto especialmente diseñar arquitecturas limpias, resolver problemas complejos y desarrollar software que sea mantenible y escalable.
-
-Actualmente mi stack principal está orientado a:
-
-- 🌐 Desarrollo Web
-- 📱 Aplicaciones móviles multiplataforma
-- ⚙️ APIs REST
-- 🗄️ Bases de datos
-- 🐧 Linux
-- ☁️ Automatización y despliegue
-
-Actualmente estoy aprendiendo **Laravel** para ampliar mi experiencia en el ecosistema PHP.
+Me interesa crear software claro, mantenible y bien estructurado.
 
 ---
 
@@ -41,7 +30,9 @@ Actualmente estoy aprendiendo **Laravel** para ampliar mi experiencia en el ecos
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Learning-Laravel-red?style=for-the-badge&logo=laravel)
+![Learning Laravel](https://img.shields.io/badge/Learning-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Learning Rust](https://img.shields.io/badge/Learning-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Learning Go](https://img.shields.io/badge/Learning-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
@@ -50,8 +41,8 @@ Actualmente estoy aprendiendo **Laravel** para ampliar mi experiencia en el ecos
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -66,7 +57,7 @@ Actualmente estoy aprendiendo **Laravel** para ampliar mi experiencia en el ecos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -76,42 +67,18 @@ Actualmente estoy aprendiendo **Laravel** para ampliar mi experiencia en el ecos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-# 📚 Actualmente trabajando en
+# 🎯 Enfoque
 
-- 📱 Aplicaciones móviles con Flutter
-- 🌐 APIs REST con Spring Boot
-- ⚡ Frontend con Angular
-- 🔄 Sincronización Offline First
-- 🗄️ Optimización de bases de datos
-- 🐧 Automatización en Linux
-
----
-
-# 🌱 Actualmente aprendiendo
-
-- Laravel
-- Arquitecturas limpias
-- Patrones de diseño
-- DevOps
-- Mejores prácticas de seguridad
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zenxlk&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenxlk&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 📱 Flutter
+- ⚙️ Angular + Spring Boot
+- 🔌 APIs REST
+- 🐧 Linux y automatización
 
 ---
 
@@ -133,13 +100,9 @@ Actualmente estoy aprendiendo **Laravel** para ampliar mi experiencia en el ecos
 
 ✔️ APIs REST
 
-✔️ Clean Architecture
-
 ✔️ Linux
 
 ✔️ Automatización
-
-✔️ Open Source
 
 ---
 
