@@ -24,7 +24,7 @@ Fuera del código escucho música todo el día, y mi pasatiempo favorito es la f
 # 🧰 Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,django,angular,ts,js,html,css,flutter,mysql,postgres,sqlite,git,linux,bash,docker,firebase,lua,postman,rust&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,django,angular,ts,js,html,css,flutter,mysql,postgres,sqlite,git,arch,linux,bash,docker,firebase,lua,postman,rust&theme=dark&perline=8" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Fuera del código escucho música todo el día, y mi pasatiempo favorito es la f
 <td width="45%"><img src="https://github.com/user-attachments/assets/fa8d3d9e-5a0f-4982-bdf0-d8d7a30f41d0" width="100%" /></td>
 <td width="55%" valign="middle">
 
-Me gustan los atardeceres: sentarme a ver el cielo y pensar... pensar que de ver atardeceres así hace años bien pudo haber nacido Java (o la computación entera), o si los gatos saben que son gatos. Sí, soy un poco raro jejeje.
+Me gustan los atardeceres: sentarme a ver el cielo y pensar... pensar que de ver atardeceres así hace años bien pudo haber nacido Java (o la computación entera), o si los gatos saben que son gatos. Cosas importantes, ya ven jejeje.
 
 </td>
 </tr>
